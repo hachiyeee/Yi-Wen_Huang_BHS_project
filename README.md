@@ -3,8 +3,7 @@ type: "project"
 date: "2020-06-15" # Date you first upload your project.
 title: "An Exploration into the Dual-Route Model of Word Processing"
 names: [Yi-Wen Huang]
-github_repo: 
-website:
+github_repo: https://github.com/hachiyeee/Yi-Wen_Huang_BHS_project/tree/main
 tags: [fmri, language, dual-route model, connectivity]
 summary: "This is a project where I explored the processing of fMRI data. The dataset in use is ds003481, which involved the task of reading different words. I attempted to replicate the study's findings and also complete a functional conncectivity map per condition in this project."
 image: ""
